@@ -41,6 +41,7 @@
         <configuration>
           <moduleName>com.example.App</moduleName>
           <moduleShortName>app</moduleShortName>
+          <style>DETAILED</style>
         </configuration>
       </plugin>
     </plugins>
